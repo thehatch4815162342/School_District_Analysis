@@ -9,13 +9,34 @@ The school board of a city school district has requested an inquiry into the rea
 
 ## Results
 
+### District Summary
+#### With Thomas High School 9th Graders
 ![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/district_summary_1.png) 
-
+#### Without Thomas High School 9th Graders
 ![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/district_summary_2.png) 
+
+![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/top_5_1.png) 
+
+![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/bottom_5_1.png) 
+
+![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/top_5_2.png) 
+
+![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/bottom_5_2.png) 
+
+![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/school_spending_1.png) 
+
+![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/school_spending_2.png) 
+
+![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/school_size_1.png)
+
+![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/school_size_2.png)
  
+ ![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/school_type_1.png)
+ 
+  ![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/school_type_2.png)
  
 ## Summary
-In conclusion,
+In conclusion, there were several changes from the original school district analysis. 
 
 
 
