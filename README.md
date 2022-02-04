@@ -15,11 +15,16 @@ The school board of a city school district has requested an inquiry into the rea
 #### Without Thomas High School 9th Graders
 ![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/district_summary_2.png) 
 
+-Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, % Overall Passing see a small decrease without the ninth graders (< 1%)
+
 ### School Summary
 #### With Thomas High School 9th Graders
 ![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/school_summary_1.png) 
 #### Without Thomas High School 9th Graders
-![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/school_summary_2.png) 
+![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/school_summary_2.png)
+
+-For Thomas High School, Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, % Overall Passing see a small decrease without the ninth graders (< 1%)
+-No other schools are affected
 
 ### Top 5 & Bottom 5 Performing Schools
 #### With Thomas High School 9th Graders
@@ -30,6 +35,8 @@ The school board of a city school district has requested an inquiry into the rea
 ![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/top_5_2.png) 
 
 ![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/bottom_5_2.png) 
+
+-Thomas High School still remains as the school with the second highest % Overall Passing with or without the ninth graders
 
 ### Average Math & Reading Scores per Grade
 #### With Thomas High School 9th Graders
@@ -46,6 +53,8 @@ The school board of a city school district has requested an inquiry into the rea
 ![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/school_spending_2.png) 
 ![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/school_size_2.png)
 ![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/school_type_2.png)
+
+The overall affect 
  
 ## Summary
 In conclusion, there were several changes from the original school district analysis that included Thomas High School ninth graders. Key differences include
