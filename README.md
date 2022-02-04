@@ -44,7 +44,7 @@ The school board of a city school district has requested an inquiry into the rea
 #### Without Thomas High School 9th Graders
 ![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/math_average_2.png)![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/math_average_2.png)
 
-- Ninth graders' grades are marked N/A in the analysis without the ninth graders
+- Thomas High School ninth graders' grades are marked N/A in the analysis without the ninth graders
 
 ### Scores by School Spending per Student, by School Size, and by School Type
 #### With Thomas High School 9th Graders
@@ -56,9 +56,9 @@ The school board of a city school district has requested an inquiry into the rea
 ![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/school_size_2.png)
 ![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/school_type_2.png)
 
-- The $630-644 budget bin sees a small decrease without the ninth graders (< 1%)
-- The Medium size bin sees a small decrease without the ninth graders (< 1%)
-- The Charter school type bin sees a small decrease without the ninth graders (< 1%)
+- The $630-644 budget bin sees a small decrease in Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, % Overall Passing without the ninth graders (< 1%)
+- The Medium size bin sees a small decrease in Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, % Overall Passing without the ninth graders (< 1%)
+- The Charter school type bin sees a small decrease in Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, % Overall Passing without the ninth graders (< 1%)
 
  
 ## Summary
