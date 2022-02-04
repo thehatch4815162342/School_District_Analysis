@@ -15,6 +15,12 @@ The school board of a city school district has requested an inquiry into the rea
 #### Without Thomas High School 9th Graders
 ![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/district_summary_2.png) 
 
+### School Summary
+#### With Thomas High School 9th Graders
+![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/school_summary_1.png) 
+#### Without Thomas High School 9th Graders
+![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/school_summary_2.png) 
+
 ### Top 5 & Bottom 5 Performing Schools
 #### With Thomas High School 9th Graders
 ![alt text](https://github.com/thehatch4815162342/School_District_Analysis/blob/main/images/top_5_1.png) 
